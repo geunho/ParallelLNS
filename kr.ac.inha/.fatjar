@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 09 09:57:24 KST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Administrator\\Downloads\\LNS-Hadoop_fat.jar
+manifest.mergeall=true
+manifest.mainclass=kr.ac.inha.Geunho.Kim.Hadoop.LNS.ParallelLNSJob
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=<inc|LNS-Hadoop/cplex>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/apache-cassandra-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/apache-cassandra-clientutil-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/apache-cassandra-thrift-1.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/avro-1.4.0-fixes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/avro-1.4.0-sources-fixes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/cassandra-jdbc-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-ant-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-client-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-core-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-examples-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-minicluster-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-test-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hadoop-tools-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/hector-core-1.0-5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/libthrift-0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-core-0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-core-0.7-job.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-examples-0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-examples-0.7-job.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-integration-0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/mahout-math-0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Mahout workspace/LNS-Hadoop/kr.ac.inha/lib/metrics-core-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/cplex.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="LNS-Hadoop/cplex"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
